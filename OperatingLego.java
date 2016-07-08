@@ -1,5 +1,4 @@
 //お試しpull request
-//edit suzuki
 package legomindstorm;
 
 public class OperatingLego {
