@@ -1,4 +1,8 @@
 //お試しpull request
+<<<<<<< HEAD
+//edit yuya suzuki
+=======
+>>>>>>> origin/master
 package legomindstorm;
 
 public class OperatingLego {
