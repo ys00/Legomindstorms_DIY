@@ -1,3 +1,4 @@
+//お試しpull request
 package legomindstorm;
 
 public class OperatingLego {
