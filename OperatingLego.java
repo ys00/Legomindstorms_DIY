@@ -1,5 +1,5 @@
 //お試しpull request
-//edit suzuki
+//edit yuya suzuki
 package legomindstorm;
 
 public class OperatingLego {
